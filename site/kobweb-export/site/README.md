@@ -1,1 +1,0 @@
-# kob-web-static-up

@@ -1,7 +1,0 @@
-2024-03-10 18:19:12.601 [main] DEBUG ktor.application - Java Home: /usr/lib/jvm
-2024-03-10 18:19:12.602 [main] DEBUG ktor.application - Class Loader: jdk.internal.loader.ClassLoaders$AppClassLoader@4f2410ac: [file:/home/talespalma/Documents/Projetos/my-site/site/.kobweb/server/server.jar!/ch]
-2024-03-10 18:19:12.628 [main] WARN  ktor.application - API jar specified but does not exist! Please fix conf.yaml. Invalid path: "build/libs/mysite.jar"
-2024-03-10 18:19:12.680 [main] INFO  ktor.application - Application started in 0.136 seconds.
-2024-03-10 18:19:12.795 [main] INFO  ktor.application - Responding at http://0.0.0.0:8080
-2024-03-10 18:21:00.298 [kotlinx.coroutines.DefaultExecutor] INFO  ktor.application - Kobweb server shutting down...
-2024-03-10 18:21:02.326 [kotlinx.coroutines.DefaultExecutor] INFO  ktor.application - Server finished shutting down.
